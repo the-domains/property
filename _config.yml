@@ -1,0 +1,14 @@
+layout_spectrum: 0.2448452
+typography_spectrum: 0.9872329
+color:
+  saturation: 0.04833446
+  lightness: 0.5392661
+  brandStrength: 0.3284297
+  rhythmicContrast: 0.1908548
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Property
